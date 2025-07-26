@@ -15,7 +15,6 @@
 =======
 		C1F1BA072E35455B0052417C /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = C1F1BA062E35455B0052417C /* readme.md */; };
 		C1F1BA092E3549880052417C /* ZingHabitsDemo.png in Resources */ = {isa = PBXBuildFile; fileRef = C1F1BA082E3549880052417C /* ZingHabitsDemo.png */; };
->>>>>>> 1b9ec69 (Initial Commit)
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,7 +27,6 @@
 =======
 		C1F1BA062E35455B0052417C /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		C1F1BA082E3549880052417C /* ZingHabitsDemo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ZingHabitsDemo.png; sourceTree = "<group>"; };
->>>>>>> 1b9ec69 (Initial Commit)
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +43,7 @@
 		C1F1B9EC2E3543140052417C = {
 			isa = PBXGroup;
 			children = (
+				C1F1BA0A2E354AE90052417C /* ZingDemo.png */,
 				C1F1B9F72E3543140052417C /* Zing */,
 				C1F1B9F62E3543140052417C /* Products */,
 			);
@@ -69,7 +68,6 @@
 =======
 				C1F1BA062E35455B0052417C /* readme.md */,
 				C1F1BA082E3549880052417C /* ZingHabitsDemo.png */,
->>>>>>> 1b9ec69 (Initial Commit)
 			);
 			path = Zing;
 			sourceTree = "<group>";
@@ -141,8 +139,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1F1BA002E3543150052417C /* Preview Assets.xcassets in Resources */,
-<<<<<<< HEAD
-=======
 				C1F1BA092E3549880052417C /* ZingHabitsDemo.png in Resources */,
 				C1F1BA072E35455B0052417C /* readme.md in Resources */,
 >>>>>>> 1b9ec69 (Initial Commit)
