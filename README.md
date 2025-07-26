@@ -9,7 +9,7 @@ A simple, beautiful habit tracking app built with SwiftUI.
 - Clean, intuitive interface
 
 ## Screenshots
-ZingHabitsDemo.png
+[ZingHabitsDemo.png](https://github.com/kkadapa/Zing/blob/main/ZingDemo.png)
 
 ## Built With
 - SwiftUI
