@@ -11,6 +11,11 @@
 		C1F1B9FB2E3543140052417C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1F1B9FA2E3543140052417C /* ContentView.swift */; };
 		C1F1B9FD2E3543150052417C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1F1B9FC2E3543150052417C /* Assets.xcassets */; };
 		C1F1BA002E3543150052417C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1F1B9FF2E3543150052417C /* Preview Assets.xcassets */; };
+<<<<<<< HEAD
+=======
+		C1F1BA072E35455B0052417C /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = C1F1BA062E35455B0052417C /* readme.md */; };
+		C1F1BA092E3549880052417C /* ZingHabitsDemo.png in Resources */ = {isa = PBXBuildFile; fileRef = C1F1BA082E3549880052417C /* ZingHabitsDemo.png */; };
+>>>>>>> 1b9ec69 (Initial Commit)
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +24,11 @@
 		C1F1B9FA2E3543140052417C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C1F1B9FC2E3543150052417C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1F1B9FF2E3543150052417C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		C1F1BA062E35455B0052417C /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
+		C1F1BA082E3549880052417C /* ZingHabitsDemo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ZingHabitsDemo.png; sourceTree = "<group>"; };
+>>>>>>> 1b9ec69 (Initial Commit)
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +65,11 @@
 				C1F1B9FA2E3543140052417C /* ContentView.swift */,
 				C1F1B9FC2E3543150052417C /* Assets.xcassets */,
 				C1F1B9FE2E3543150052417C /* Preview Content */,
+<<<<<<< HEAD
+=======
+				C1F1BA062E35455B0052417C /* readme.md */,
+				C1F1BA082E3549880052417C /* ZingHabitsDemo.png */,
+>>>>>>> 1b9ec69 (Initial Commit)
 			);
 			path = Zing;
 			sourceTree = "<group>";
@@ -126,6 +141,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				C1F1BA002E3543150052417C /* Preview Assets.xcassets in Resources */,
+<<<<<<< HEAD
+=======
+				C1F1BA092E3549880052417C /* ZingHabitsDemo.png in Resources */,
+				C1F1BA072E35455B0052417C /* readme.md in Resources */,
+>>>>>>> 1b9ec69 (Initial Commit)
 				C1F1B9FD2E3543150052417C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
